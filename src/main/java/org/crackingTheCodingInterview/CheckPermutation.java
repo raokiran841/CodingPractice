@@ -3,7 +3,7 @@ package org.crackingTheCodingInterview;
 import java.util.HashMap;
 
 public class CheckPermutation {
-    /* Given two strings, write a method to decide if one is a permutation of the other. */
+    /** Given two strings, write a method to decide if one is a permutation of the other. */
     public static void main(String[] args) {
         String val1 = "1244";
         String val2 = "4214";
