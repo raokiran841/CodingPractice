@@ -1,4 +1,4 @@
-package org.crackingTheCodingInterview;
+package org.crackingTheCodingInterview.ArraysAndStrings;
 
 public class StringCompression {
     /**

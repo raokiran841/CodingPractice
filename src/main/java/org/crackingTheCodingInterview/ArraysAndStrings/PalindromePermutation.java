@@ -1,4 +1,4 @@
-package org.crackingTheCodingInterview;
+package org.crackingTheCodingInterview.ArraysAndStrings;
 
 import java.util.Arrays;
 import java.util.HashMap;

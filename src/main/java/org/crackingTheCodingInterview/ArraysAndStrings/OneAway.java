@@ -1,4 +1,4 @@
-package org.crackingTheCodingInterview;
+package org.crackingTheCodingInterview.ArraysAndStrings;
 
 public class OneAway {
     /** There are three types of edits that can be performed on strings: insert a character,
