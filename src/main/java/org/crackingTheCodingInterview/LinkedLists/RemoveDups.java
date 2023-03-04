@@ -1,6 +1,7 @@
 package org.crackingTheCodingInterview.LinkedLists;
 
 import java.util.HashMap;
+import org.crackingTheCodingInterview.LinkedLists.Node;
 
 public class RemoveDups {
 
@@ -10,14 +11,6 @@ public class RemoveDups {
      * How would you solve this problem if a temporary buffer is not allowed?
      * */
 
-    static class Node{
-        int data;
-        Node next = null;
-
-        public Node(int data){
-            this.data = data;
-        }
-    }
     public static void main(String[] args) {
         Node node = new Node(1);
         node.next = new Node(1);

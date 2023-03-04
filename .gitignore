@@ -1,3 +1,18 @@
-*.class
-resources/classes/*
-/target
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+logs/
+.mvn/*
+*/dev_minikube/*
+voice-cdr.json
+un-billed.json
+application.properties.mine
+src/test/resources/testcases/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!*/src/main/*/target/
+!*/src/test/*/target/
