@@ -39,7 +39,7 @@ public class RemoveDups {
         Node prev = head;
         while(node != null){
             if(hm.get(node.data) == null){
-                hm.put(node.data, 1);
+                hm.put((Integer) node.data, 1);
                 prev = node;
             } else {
                 // remove this duplicate element from LinkedList
